@@ -8,9 +8,7 @@ I'm studying Econometrics & Mathematical Economics at LSE, with interests in **c
 
 I'm particularly interested in causal questions: **why does X cause Y, who is affected, and what can we do with that knowledge?** I want to bring econometric research designs together with machine learning to investigate these questions, understand how effects vary across people and settings, and turn evidence into useful decisions. I'm interested in both the methods and the substantive problems they help us understand.
 
-More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. My curiosity also takes me into multilingual language technology, environmental data and small tools built in response to everyday problems.
-
-I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
+More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. My curiosity also takes me into multilingual language technology, environmental data and small tools built in response to everyday problems. I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
 
