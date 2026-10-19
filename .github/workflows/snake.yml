@@ -30,13 +30,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
+      - name: Generate a compact view of actual contribution counts
+        env:
+          GH_TOKEN: ${{ github.token }}
+          PROFILE_OWNER: ${{ github.repository_owner }}
+        shell: bash
+        run: |
+          set -euo pipefail
+          gh api graphql -f query='query($login: String!) { user(login: $login) { contributionsCollection { contributionCalendar { totalContributions } } } }' -f login="$PROFILE_OWNER" > "$RUNNER_TEMP/contributions.json"
+          python scripts/generate_compact_snake.py --input "$RUNNER_TEMP/contributions.json" --output dist
+
       - name: Publish animations to the output branch
         shell: bash
         run: |
           set -euo pipefail
           animation_dir="$RUNNER_TEMP/contribution-snake"
           mkdir -p "$animation_dir"
-          cp dist/github-snake.svg dist/github-snake-dark.svg "$animation_dir/"
+          cp dist/*.svg "$animation_dir/"
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           if git ls-remote --exit-code --heads origin output > /dev/null; then
@@ -46,8 +56,8 @@ jobs:
             git switch --orphan output
             git rm -rf --ignore-unmatch .
           fi
-          cp "$animation_dir/github-snake.svg" "$animation_dir/github-snake-dark.svg" .
-          git add github-snake.svg github-snake-dark.svg
+          cp "$animation_dir/"*.svg .
+          git add github-snake.svg github-snake-dark.svg compact-snake.svg compact-snake-dark.svg
           if git diff --cached --quiet; then
             exit 0
           fi
