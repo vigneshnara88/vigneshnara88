@@ -1,4 +1,4 @@
-﻿# Vignesh Narayanan
+# Hi, I'm Vignesh
 
 <img src="assets/running-cats.svg" alt="Two animated cats running across a small data-inspired scene" width="100%" />
 
