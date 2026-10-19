@@ -73,11 +73,7 @@ I'm open to collaborating on new research ideas in causal inference and applied 
 
 ## Watch the snake eat my contributions
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake.svg" />
-  <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake.svg" width="100%" />
-</picture>
+<img alt="Snake animation" src="assets/snake.svg" width="100%" />
 
 <details>
 <summary>Compact view</summary>
