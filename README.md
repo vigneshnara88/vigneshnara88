@@ -14,14 +14,6 @@ More broadly, I like data science because it lets us look at numbers, discover r
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
 
-## What I'm listening to right now (connected to my Spotify, live)
-
-<p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vigneshnara88&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" alt="What I'm listening to on Spotify" />
-  </a>
-</p>
-
 [![Causal inference](https://img.shields.io/badge/Causal_inference-216E39?style=flat-square)](#causal-inference--policy-research)
 [![ML and data science](https://img.shields.io/badge/ML_%26_data_science-2563EB?style=flat-square)](#machine-learning--data-science)
 [![Personal projects](https://img.shields.io/badge/Personal_projects-8957E5?style=flat-square)](#personal-projects--algorithms)
@@ -59,6 +51,14 @@ More broadly, I like data science because it lets us look at numbers, discover r
 ## Research ideas
 
 [Adaptive visual-field testing](https://github.com/vigneshnara88/visual-field-adaptive-testing) — an exploratory simulation framework and reading list on adaptive statistical methods and the testing experience.
+
+## What I'm listening to right now (connected to my Spotify, live)
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vigneshnara88&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" alt="What I'm listening to on Spotify" />
+  </a>
+</p>
 
 ## Tools I'm familiar with :)
 
