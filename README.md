@@ -14,7 +14,7 @@ More broadly, I like data science because it lets us look at numbers, discover r
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
 
-## What I'm listening to right now (connected to my live spotify)
+## What I'm listening to right now (connected to my Spotify, live)
 
 <p align="center">
   <a href="https://github.com/kittinan/spotify-github-profile">
