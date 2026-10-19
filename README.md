@@ -9,7 +9,7 @@ I'm studying Econometrics &amp; Mathematical Economics at LSE, with interests in
 </p>
 
 <p align="left">
-More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. I'm interested in both the methods and the substantive problems they help us understand. My curiosityhas taken me into multilingual language technology, environmental data and small tools built in response to everyday problems (and I am excited to explore new fields!). I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
+More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. I'm interested in both the methods and the substantive problems they help us understand. My curiosity has taken me into multilingual language technology, environmental data and small tools built in response to everyday problems (and I am excited to explore new fields!). I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
 </p>
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
