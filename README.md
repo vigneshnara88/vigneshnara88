@@ -1,3 +1,5 @@
+<div align="center">
+
 # Hi, I'm Vignesh
 
 <img src="assets/running-cats.svg" alt="Two animated cats running across a small data-inspired scene" width="100%" />
@@ -12,15 +14,22 @@ I'm **open to collaborating on new research ideas** in causal inference and appl
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
 
+## Spotify now playing
+
+<p align="center">
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vigneshnara88&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" alt="What I'm listening to on Spotify" />
+  </a>
+</p>
+
 [![Causal inference](https://img.shields.io/badge/Causal_inference-216E39?style=flat-square)](#causal-inference--policy-research)
 [![ML and data science](https://img.shields.io/badge/ML_%26_data_science-2563EB?style=flat-square)](#machine-learning--data-science)
 [![Personal projects](https://img.shields.io/badge/Personal_projects-8957E5?style=flat-square)](#personal-projects--algorithms)
-[![Visa bot](https://img.shields.io/badge/Visa_bot-0F766E?style=flat-square)](https://github.com/vigneshnara88/visa-appointment-monitor)
 
 ## Causal inference & policy research
 
 | Project | Work |
-| --- | --- |
+| :---: | :---: |
 | [CROWN Acts & labour markets](https://github.com/vigneshnara88/crown-acts-labour-market) | Independent paper using ACS data and a triple-difference design to study hair-discrimination protections. |
 | [Econometrics Game 2026](https://github.com/vigneshnara88/econometrics-game-2026) | Team research on education incentives and fertility, using Python and Stata. **Second place.** |
 | [RD external validity / AIPW_RD](research/rd-external-validity.md) | Frontend and R/Python package development for the researchers' extension to RD designs. Private research repository. |
@@ -32,7 +41,7 @@ I'm **open to collaborating on new research ideas** in causal inference and appl
 ## Machine learning & data science
 
 | Project | Work |
-| --- | --- |
+| :---: | :---: |
 | [Consumer complaint language](https://github.com/vigneshnara88/consumer-complaints-language) | Ongoing NLP work on template reuse and reported relief in CFPB complaints. Developed from DS202W coursework, with feedback from Dr Ghita Berrada. |
 | [Kuwait air quality](https://github.com/vigneshnara88/kuwait-air-quality) | Missing-data analysis, wind features, regression and spatial imputation for PM2.5 monitoring. Collaborative research led by Dr Ghita Berrada and Dr Huda Alrashidi. |
 | [Agentic code switching](https://github.com/vigneshnara88/code-switching-generation) | English–Tamil and Malay–English generation rules, annotation resources and review tools. |
@@ -42,7 +51,7 @@ I'm **open to collaborating on new research ideas** in causal inference and appl
 ## Personal projects & algorithms
 
 | Project | Work |
-| --- | --- |
+| :---: | :---: |
 | [Visa appointment bot](https://github.com/vigneshnara88/visa-appointment-monitor) | Personal automation prompted by competition travel. Public code demonstrates appointment-date filtering and scheduling with local snapshots; upstream project credited. |
 | [Time-dependent routing](https://github.com/vigneshnara88/time-dependent-routing) | Graph search through changing obstacles when waiting is not allowed. |
 | [Pokémon weather map](https://github.com/vigneshnara88/pokemon-weather-map) | Group coursework combining data collection, geographic information and a creative weather-based mapping rule. |
@@ -58,12 +67,6 @@ I'm **open to collaborating on new research ideas** in causal inference and appl
 ![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Spotify now playing
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=vigneshnara88&amp;cover_image=true&amp;theme=default&amp;show_offline=false&amp;background_color=121212&amp;interchange=false&amp;profanity=false&amp;hide_remaster=false" alt="What I'm listening to on Spotify" />
-</a>
 
 ## Watch the snake eat my contributions
 
@@ -85,3 +88,5 @@ One square per contribution, with empty days removed.
 </picture>
 
 </details>
+
+</div>
