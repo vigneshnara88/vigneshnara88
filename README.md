@@ -59,8 +59,21 @@ I like data science because it lets us look at numbers, discover relationships, 
 
 ## Watch the snake eat my contributions
 
+One square per contribution, with empty days removed.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/compact-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/compact-snake.svg" />
+  <img alt="A compact snake animation with one square per GitHub contribution" src="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/compact-snake.svg" width="100%" />
+</picture>
+
+<details>
+<summary>Calendar view</summary>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake.svg" />
   <img alt="A snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/vigneshnara88/vigneshnara88/output/github-snake.svg" width="100%" />
 </picture>
+
+</details>
