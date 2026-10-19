@@ -60,7 +60,7 @@ I'm open to collaborating on new research ideas in causal inference and applied 
 
 [Adaptive visual-field testing](https://github.com/vigneshnara88/visual-field-adaptive-testing) — an exploratory simulation framework and reading list on adaptive statistical methods and the testing experience.
 
-## Tools
+## Tools I'm familiar with :)
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
