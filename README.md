@@ -4,9 +4,7 @@
 
 <img src="assets/running-cats.svg" alt="Two animated cats running across a small data-inspired scene" width="100%" />
 
-I'm studying Econometrics & Mathematical Economics at LSE, with interests in **causal inference and applied data science**. This profile is a curation of some of my research, coursework, collaborative work and personal projects. (scroll down to see some highlighted projects!)
-
-I'm particularly interested in causal questions: **why does X cause Y, who is affected, and what can we do with that knowledge?** I want to bring econometric research designs together with machine learning to investigate these questions, understand how effects vary across people and settings, and turn evidence into useful decisions. I'm interested in both the methods and the substantive problems they help us understand.
+I'm studying Econometrics & Mathematical Economics at LSE, with interests in **causal inference and applied data science**. This profile is a curation of some of my research, coursework, collaborative work and personal projects. (scroll down to see some highlighted projects!) I'm particularly interested in causal questions: **why does X cause Y, who is affected, and what can we do with that knowledge?** I want to bring econometric research designs together with machine learning to investigate these questions, understand how effects vary across people and settings, and turn evidence into useful decisions. I'm interested in both the methods and the substantive problems they help us understand.
 
 More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. My curiosity also takes me into multilingual language technology, environmental data and small tools built in response to everyday problems. I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
 
