@@ -5,7 +5,7 @@
 <img src="assets/running-cats.svg" alt="Two animated cats running across a small data-inspired scene" width="100%" />
 
 <p align="left">
-I'm studying Econometrics &amp; Mathematical Economics at LSE, with interests in **causal inference and applied data science.** I'm particularly interested in causal questions: why does X cause Y, who is affected, and what can we do with that knowledge? I want to bring econometric research designs together with machine learning to investigate these questions, understand how effects vary across people and settings, and turn evidence into useful decisions. (Below I've grouped a selection of my research, coursework, collaborative work and personal projects into three areas: causal inference, machine learning projects and some wacky side projects)
+I'm studying Econometrics &amp; Mathematical Economics at LSE, with interests in causal inference and applied data science. I'm particularly interested in causal questions: why does X cause Y, who is affected, and what can we do with that knowledge? I want to bring econometric research designs together with machine learning to investigate these questions, understand how effects vary across people and settings, and turn evidence into useful decisions. (Below I've grouped a selection of my research, coursework, collaborative work and personal projects into three areas: causal inference, machine learning projects and some wacky side projects)
 </p>
 
 <p align="left">
