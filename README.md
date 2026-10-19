@@ -10,7 +10,7 @@ I'm particularly interested in causal questions: **why does X cause Y, who is af
 
 More broadly, I like data science because it lets us look at numbers, discover relationships, and use what we learn to inform decisions around the world. My curiosity also takes me into multilingual language technology, environmental data and small tools built in response to everyday problems.
 
-I'm **open to collaborating on new research ideas** in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
+I'm open to collaborating on new research ideas in causal inference and applied data science. If these interests overlap with yours, or you have a question you'd like to explore together, feel free to email me.
 
 [![Email: vigneshnara88@gmail.com](https://img.shields.io/badge/Email-vigneshnara88%40gmail.com-0F766E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshnara88@gmail.com)
 
