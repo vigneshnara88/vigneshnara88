@@ -67,6 +67,7 @@ I'm open to collaborating on new research ideas in causal inference and applied 
 ![Stata](https://img.shields.io/badge/Stata-1A5F91?style=flat-square)
 ![SQL](https://img.shields.io/badge/SQL-4169E1?style=flat-square)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure Cloud](https://img.shields.io/badge/Azure_Cloud-0078D4?style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 
